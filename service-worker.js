@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/massageSambir/precache-manifest.c76ab23e0acdd758f30cfda15e913900.js"
+  "/massageSambir/precache-manifest.0e7a52bed3daec4ebaecd0052b6a6894.js"
 );
 
 self.addEventListener('message', (event) => {

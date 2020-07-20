@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/massageSambir/static/css/main.1298217a.chunk.css",
+    "main.css": "/massageSambir/static/css/main.da39159b.chunk.css",
     "main.js": "/massageSambir/static/js/main.df42bc8c.chunk.js",
     "main.js.map": "/massageSambir/static/js/main.df42bc8c.chunk.js.map",
     "runtime-main.js": "/massageSambir/static/js/runtime-main.cf6aa341.js",
@@ -9,10 +9,10 @@
     "static/js/2.68e56b26.chunk.js": "/massageSambir/static/js/2.68e56b26.chunk.js",
     "static/js/2.68e56b26.chunk.js.map": "/massageSambir/static/js/2.68e56b26.chunk.js.map",
     "index.html": "/massageSambir/index.html",
-    "precache-manifest.c76ab23e0acdd758f30cfda15e913900.js": "/massageSambir/precache-manifest.c76ab23e0acdd758f30cfda15e913900.js",
+    "precache-manifest.0e7a52bed3daec4ebaecd0052b6a6894.js": "/massageSambir/precache-manifest.0e7a52bed3daec4ebaecd0052b6a6894.js",
     "service-worker.js": "/massageSambir/service-worker.js",
     "static/css/2.a8a1fc75.chunk.css.map": "/massageSambir/static/css/2.a8a1fc75.chunk.css.map",
-    "static/css/main.1298217a.chunk.css.map": "/massageSambir/static/css/main.1298217a.chunk.css.map",
+    "static/css/main.da39159b.chunk.css.map": "/massageSambir/static/css/main.da39159b.chunk.css.map",
     "static/js/2.68e56b26.chunk.js.LICENSE.txt": "/massageSambir/static/js/2.68e56b26.chunk.js.LICENSE.txt",
     "static/media/slick-theme.css": "/massageSambir/static/media/slick.f97e3bbf.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.cf6aa341.js",
     "static/css/2.a8a1fc75.chunk.css",
     "static/js/2.68e56b26.chunk.js",
-    "static/css/main.1298217a.chunk.css",
+    "static/css/main.da39159b.chunk.css",
     "static/js/main.df42bc8c.chunk.js"
   ]
 }

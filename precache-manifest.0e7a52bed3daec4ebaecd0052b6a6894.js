@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e848d0c9934e871a5727da30596bb4f0",
+    "revision": "8b2af68f06b85e049e1a25f7f9613183",
     "url": "/massageSambir/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/massageSambir/static/css/2.a8a1fc75.chunk.css"
   },
   {
-    "revision": "de6f6126cc14e5308786",
-    "url": "/massageSambir/static/css/main.1298217a.chunk.css"
+    "revision": "455a6d4187cb36de978a",
+    "url": "/massageSambir/static/css/main.da39159b.chunk.css"
   },
   {
     "revision": "a9926795326573a76a23",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/massageSambir/static/js/2.68e56b26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de6f6126cc14e5308786",
+    "revision": "455a6d4187cb36de978a",
     "url": "/massageSambir/static/js/main.df42bc8c.chunk.js"
   },
   {
