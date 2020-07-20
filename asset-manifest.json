@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/massageSambir/static/css/main.04ca72ea.chunk.css",
-    "main.js": "/massageSambir/static/js/main.e88b207b.chunk.js",
-    "main.js.map": "/massageSambir/static/js/main.e88b207b.chunk.js.map",
+    "main.css": "/massageSambir/static/css/main.f09d2ddf.chunk.css",
+    "main.js": "/massageSambir/static/js/main.3d6934b1.chunk.js",
+    "main.js.map": "/massageSambir/static/js/main.3d6934b1.chunk.js.map",
     "runtime-main.js": "/massageSambir/static/js/runtime-main.cf6aa341.js",
     "runtime-main.js.map": "/massageSambir/static/js/runtime-main.cf6aa341.js.map",
     "static/css/2.a8a1fc75.chunk.css": "/massageSambir/static/css/2.a8a1fc75.chunk.css",
     "static/js/2.942d7b3f.chunk.js": "/massageSambir/static/js/2.942d7b3f.chunk.js",
     "static/js/2.942d7b3f.chunk.js.map": "/massageSambir/static/js/2.942d7b3f.chunk.js.map",
     "index.html": "/massageSambir/index.html",
-    "precache-manifest.6cedb3dd3b91788b03905faeba661ca4.js": "/massageSambir/precache-manifest.6cedb3dd3b91788b03905faeba661ca4.js",
+    "precache-manifest.b16e9888c2bd7ebc839f7bdbcdb1ea2a.js": "/massageSambir/precache-manifest.b16e9888c2bd7ebc839f7bdbcdb1ea2a.js",
     "service-worker.js": "/massageSambir/service-worker.js",
     "static/css/2.a8a1fc75.chunk.css.map": "/massageSambir/static/css/2.a8a1fc75.chunk.css.map",
-    "static/css/main.04ca72ea.chunk.css.map": "/massageSambir/static/css/main.04ca72ea.chunk.css.map",
+    "static/css/main.f09d2ddf.chunk.css.map": "/massageSambir/static/css/main.f09d2ddf.chunk.css.map",
     "static/js/2.942d7b3f.chunk.js.LICENSE.txt": "/massageSambir/static/js/2.942d7b3f.chunk.js.LICENSE.txt",
     "static/media/slick-theme.css": "/massageSambir/static/media/slick.f97e3bbf.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.cf6aa341.js",
     "static/css/2.a8a1fc75.chunk.css",
     "static/js/2.942d7b3f.chunk.js",
-    "static/css/main.04ca72ea.chunk.css",
-    "static/js/main.e88b207b.chunk.js"
+    "static/css/main.f09d2ddf.chunk.css",
+    "static/js/main.3d6934b1.chunk.js"
   ]
 }
