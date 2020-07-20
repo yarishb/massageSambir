@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0528498922963bd418872f77815fa90b",
+    "revision": "e848d0c9934e871a5727da30596bb4f0",
     "url": "/massageSambir/index.html"
   },
   {
-    "revision": "77c0bf89801c8b4879cb",
+    "revision": "a9926795326573a76a23",
     "url": "/massageSambir/static/css/2.a8a1fc75.chunk.css"
   },
   {
-    "revision": "2ff8f7f37971edbde9f2",
-    "url": "/massageSambir/static/css/main.f09d2ddf.chunk.css"
+    "revision": "de6f6126cc14e5308786",
+    "url": "/massageSambir/static/css/main.1298217a.chunk.css"
   },
   {
-    "revision": "77c0bf89801c8b4879cb",
-    "url": "/massageSambir/static/js/2.942d7b3f.chunk.js"
+    "revision": "a9926795326573a76a23",
+    "url": "/massageSambir/static/js/2.68e56b26.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/massageSambir/static/js/2.942d7b3f.chunk.js.LICENSE.txt"
+    "url": "/massageSambir/static/js/2.68e56b26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ff8f7f37971edbde9f2",
-    "url": "/massageSambir/static/js/main.3d6934b1.chunk.js"
+    "revision": "de6f6126cc14e5308786",
+    "url": "/massageSambir/static/js/main.df42bc8c.chunk.js"
   },
   {
     "revision": "c04199eb5838aa478593",
